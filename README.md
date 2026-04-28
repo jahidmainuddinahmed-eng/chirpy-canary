@@ -1,11 +1,6 @@
-# chirpy-canary
-https://docs.github.com/assets/cb-23062/images/help/repository/repo-create.png
-
-
-
 # 🐦 Chirpy Canary
 
-![canary banner](https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=800&h=200&fit=crop)
+![canary banner]([https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=800&h=200&fit=crop](https://unsplash.com/photos/a-yellow-bird-sitting-on-top-of-a-rock-NY2XW5MaOnc))
 
 ## 👋 About Me
 
@@ -64,4 +59,62 @@ Advanced seed inventory management with consumption analytics
 
 ## 📊 My Weekly Stats
 
+🥜 Seeds eaten: ██████████░░░░░ 147
+🎵 Songs sung: ███████████████ 45
+🪶 Feathers lost: ██░░░░░░░░░░░░░ 3
+💤 Naps taken: █████████████░░ 12
+🐛 Worms caught: ████░░░░░░░░░░░ 8
+
+
+
+---
+
+## 📈 GitHub Analytics
+
+![Chirpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&title_color=F7B32B&icon_color=F7B32B)
+
+![Top Mimicked Sounds](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&title_color=F7B32B)
+
+---
+
+## 🗺️ Migration Route 2026
+Winter (Florida) → Spring (Georgia) → Summer (New York) → Fall (Back to Florida)
+🏖️ 🌸 ☀️ 🍂
+
+
+---
+
+## 📫 How to Reach Me
+
+- 🐦 **Twitter/X**: [@ChirpyTheCanary](#)
+- 📷 **Instagram**: [@chirpy.daily](#)
+- 🎵 **TikTok**: [@singing.canary](#)
+- 📧 **Email**: chirpy@canarymail.com
+- ☁️ **Cloud**: Usually around the bird feeder at 7 AM
+
+---
+
+## 🏆 Achievements
+🏅 Best Morning Singer - Neighborhood Birds Association (2024, 2025)
+🏆 Most Consistent Tweeter - Canary Community Awards (2023)
+⭐ Top 10% of Seed Consumers - Worldwide Bird Rankings
+
+
+---
+
+## 🎧 Currently Listening To
+
+- "Flight FM" - The Sparrows
+- "Lofi Beats to Crack Seeds To" - Chill Birb Radio
+- "Morning Chorus Mix 2026" - Nature Sounds Vol. 4
+
+---
+
+*✨ Always tweeting, always flying, always chirping...* 🐦
+
+![Footer animation](https://raw.githubusercontent.com/your-username/your-repo/main/footer.gif)
+
+---
+
+⭐ *This profile automatically updates every time I finish a sunflower seed*
 
