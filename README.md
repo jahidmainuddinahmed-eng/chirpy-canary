@@ -1,6 +1,6 @@
 # 🐦 Chirpy Canary
 
-https://images.pexels.com/photos/2575407/pexels-photo-2575407.jpeg
+![canary banner](https://images.pexels.com/photos/3741067/pexels-photo-3741067.jpeg?w=800&h=200&fit=crop)
 
 ## 👋 About Me
 
