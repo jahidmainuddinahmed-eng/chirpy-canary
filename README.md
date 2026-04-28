@@ -1,6 +1,6 @@
-# 🐦 Chirpy Canary
+#  Chirpy Canary
 
-![canary banner](https://images.pexels.com/photos/2575407/pexels-photo-2575407.jpeg?w=800&h=200&fit=crop)
+[![canary banner](https://images.pexels.com/photos/2575407/pexels-photo-2575407.jpeg?w=800&h=200&fit=crop)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Serinus_canaria_-Canary_Islands-8.jpg/800px-Serinus_canaria_-Canary_Islands-8.jpg)
 
 ## 👋 About Me
 
