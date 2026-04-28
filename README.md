@@ -1,6 +1,6 @@
 # 🐦 Chirpy Canary
 
-![canary banner]([https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=800&h=200&fit=crop](https://unsplash.com/photos/a-yellow-bird-sitting-on-top-of-a-rock-NY2XW5MaOnc))
+https://images.pexels.com/photos/2575407/pexels-photo-2575407.jpeg
 
 ## 👋 About Me
 
