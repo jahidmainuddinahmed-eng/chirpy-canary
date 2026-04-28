@@ -71,9 +71,9 @@ Advanced seed inventory management with consumption analytics
 
 ## 📈 GitHub Analytics
 
-![Chirpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&title_color=F7B32B&icon_color=F7B32B)
+![Chirpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidmainuddinahmed-eng&show_icons=true&theme=default&title_color=F7B32B&icon_color=F7B32B)
 
-![Top Mimicked Sounds](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&title_color=F7B32B)
+![Top Mimicked Sounds](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidmainuddinahmed-eng&layout=compact&title_color=F7B32B)
 
 ---
 
