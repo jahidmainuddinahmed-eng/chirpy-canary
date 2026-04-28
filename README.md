@@ -112,8 +112,6 @@ Winter (Florida) → Spring (Georgia) → Summer (New York) → Fall (Back to Fl
 
 *✨ Always tweeting, always flying, always chirping...* 🐦
 
-![Footer animation](https://raw.githubusercontent.com/your-username/your-repo/main/footer.gif)
-
 ---
 
 ⭐ *This profile automatically updates every time I finish a sunflower seed*
